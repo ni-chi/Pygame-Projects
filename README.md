@@ -1,1 +1,7 @@
 # Pygame-Projects
+
+1. snake.py :-
+      A simple snake game in which a snake increases its size by eating food. The game is over if the user hits itself or any of the walls.
+      
+ 2. squirrel.py :-
+      Size of the squirrel increases upon crossing small squirrels. Game is over if the user reaches omega squirrel level or the user hits the squirrel three times with bigger squirrels.
